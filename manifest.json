@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "count": 100,
-  "cdnBase": "https://cdn.jsdelivr.net/gh/anggastudio/aranim-assets@main/images",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/anggastudio/aranim-assets@v2/images",
   "images": [
     "puzzle_001.png",
     "puzzle_002.png",
